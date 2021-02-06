@@ -6,4 +6,4 @@ Timer to help during programming hours, assimilating the correct way to 'Breathe
 
 
 
-<img src="relaxer_dev.gif" width="100" height="100" />
+<img src="relaxer_dev.gif" = 250x />
